@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-\newcommand{\tex}[1]{#1}
-
 Shwmae!
 ======
 I'm a Foundation Climate Scientist at the Met Office, working within the monthly to decadal predictability and impacts team to better understand compound climate extremes impacting the energy sector.
