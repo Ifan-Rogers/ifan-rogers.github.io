@@ -26,7 +26,7 @@ author:
   name             : "Ifan Rogers"
   pronouns         : "he/him"  
   bio              : "Foundation Climate Scientist"
-  location         : "Exeter"
+  location         : "Exeter, UK"
   employer         : "The Met Office"
   uri              : # URL
   email            : "ifan.rogers@metoffice.gov.uk" 
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "IfanRogers"
+  twitter          : # "IfanRogers"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
