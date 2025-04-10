@@ -13,7 +13,7 @@ title                    : "Ifan Rogers"
 title_separator          : "-"
 name                     : &name "Ifan Rogers"
 description              : &description "Foundation Climate Scientist at the Met Office"
-url                      : "https://ifan-rogers.github.io # academicpages.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ifan-rogers.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
