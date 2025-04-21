@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ifan Rogers Climate"
+title: "Ifan Rogers Hinsawdd / Climate"
 author_profile: true
 redirect_from: 
   - /about/
