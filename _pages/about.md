@@ -14,7 +14,7 @@ Dwi'n wyddonydd hinsawdd yn gweithio yn y Met Office, ble dwi'n ymchwilio rhagwe
 
 Cyn symud i Gaerwysg yn 2025, astudiais ffiseg ym mhrifysgol Rydychen, gan wneud ffiseg atmosfferig a chefnforol yn ogystal â ffiseg damcaniaethol. Fe wnes i hefyd cwblhau prosiect ar batrymau cyfnodoldeb ac anhrefn o ddigwyddiadau El Niño o fewn model osgiliadur wedi'i oedi. 
 
-# ---
+---
 
 I'm a Foundation Climate Scientist at the Met Office, working within the monthly to decadal predictability and impacts team to better understand compound climate hazards impacting the energy sector.
 
